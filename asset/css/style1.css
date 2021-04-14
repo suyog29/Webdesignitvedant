@@ -1,0 +1,72 @@
+*
+{
+	box-sizing:border-box;
+}
+/*
+.logo
+{
+	border-style:solid;
+}
+*/
+.menu
+{
+	height:100px;
+	color:black;
+	text-align:center;
+	font-size:20px;
+	padding-top:50px;
+}
+
+.menu a
+{
+	text-decoration:none;
+	color:black;
+	display:block;
+}
+
+a:hover
+{
+	color:#FFBF00;
+}
+
+.category
+{
+	text-align:center;
+	color:red;
+}
+
+.title
+{
+	text-align:center;
+	color:black;
+}
+
+.section_banner
+{
+	height:50px;
+	background-color:#A0AFAD;
+	margin-top:10px;
+	font-size:40px;
+	color:white;
+	
+	box-shadow:10px 10px rgb(90, 36, 116);
+	margin-bottom:10px;
+}
+
+.address
+{
+	text-align:center;
+}
+
+.footer
+{
+	height:200px;
+	background-color:#A0AFAD;
+	margin-top:10px;
+	font-size:20px;
+	padding-top:12px;
+	
+	box-shadow:10px 10px rgb(160, 87, 159);
+	color:blue;
+	margin-bottom:10px;
+}
